@@ -1,0 +1,8 @@
+.vscode
+kmeans_model.pkl
+label_map.pkl
+product_list.pkl
+retail_model.pkl
+rfm_scaler.pkl
+online_retail.csv
+item_similarity.pkl
