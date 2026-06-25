@@ -6,3 +6,5 @@ retail_model.pkl
 rfm_scaler.pkl
 online_retail.csv
 item_similarity.pkl
+joblib
+pickle
